@@ -1,0 +1,22 @@
+{
+    "name": "tseweb/php-pwpolicy",
+    "description": "Class to enforce a password policy.",
+	"version": "1.0.0",
+    "license": "MIT",
+    "keywords": ["password policy"],
+    "authors": [
+        {
+            "name": "Vincent Verbruggen",
+            "email": "info@tse-webdesign.be"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "TSEWEB\\PasswordPolicy\\": "src"
+        }
+    }
+}
