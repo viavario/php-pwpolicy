@@ -4,7 +4,7 @@ A password policy enforcer.
 
 ## Installation
 
-	composer require tseweb/php-pwpolicy
+	composer require viavario/php-pwpolicy
 
 ## Usage
 
